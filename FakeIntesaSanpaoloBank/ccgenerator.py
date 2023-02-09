@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 # by ..:: crazyjunkie ::.. 2014
 # If you need a Good Wordlist ====> http://uploaded.net/folder/j7gmyz
+# This code comes from https://github.com/eye9poob/python/blob/master/credit-card-numbers-generator.py
 
 """
 gencc: A simple program to generate credit card numbers that pass the
