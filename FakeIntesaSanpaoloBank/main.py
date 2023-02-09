@@ -32,7 +32,7 @@ while (True):
       browser.find_element(By.NAME, "cc").send_keys(b)
       time.sleep(0.001)
     browser.find_element(By.NAME, "exp").send_keys(str(random.randint(1, 12)))
-    time.sleep(0.01)
+    time.sleep(0.1)
     browser.find_element(By.NAME, "exp").send_keys(str(random.randint(23, 30)))
     browser.find_element(By.NAME, "cvv").send_keys(str(random.randint(111, 999)))
     browser.find_element(By.ID, "enter1Login").click()

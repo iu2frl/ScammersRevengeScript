@@ -108,7 +108,6 @@ generator.seed()        # Seed from current time
 
 print("credit card generator by ..:: crazyjunkie ::..\n")
 
-print(credit_card_number(generator, mastercardPrefixList, 16))
 # mastercard = credit_card_number(generator, mastercardPrefixList, 16)
 # print(output("Mastercard", mastercard))
 
